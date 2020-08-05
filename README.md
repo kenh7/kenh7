@@ -8,7 +8,6 @@
 
 ### On the web:
 - :globe_with_meridians: Visit my website that I made [here][website]
-
 - <img alt="kenh7 | LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> View my LinkedIn profile [here][linkedin]
 
 
