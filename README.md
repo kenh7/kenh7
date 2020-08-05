@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :computer: I'm a computer science engineer and I hope to create something that would help people in some way!
+:computer: I'm a computer science engineer and I hope to create something that would help people in some way!
 
 - 🌱 I’m currently finding different technologies to learn
 - 🔭 I’m currently working on improving [my website][website] and bettering the design as much as I can
